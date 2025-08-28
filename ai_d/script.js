@@ -301,7 +301,6 @@
             }
         },
 
-        // chagne to dutch
         style: {
             primaryColor: '',
             secondaryColor: '',
